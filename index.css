@@ -1,0 +1,135 @@
+body {
+    font-family: 'Lobster', cursive;
+     font-size: 13px;
+     margin-left: 30px;
+     margin-right: 30px;
+     
+}
+
+
+.Neko {
+    background:-webkit-linear-gradient(top, rgb(76, 194, 248) 40%, blue 70%);
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+}
+
+.Mark {
+    background:-webkit-linear-gradient(top, rgb(40, 68, 228) 60%, rgb(117, 46, 233) 30%);
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+
+}
+
+.Img {
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.Para {
+    color: rgb(26, 7, 78);
+    text-align: center;
+    font-size: 25px;
+    
+    
+}
+
+#Lien{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    
+}
+
+.Site{
+    color:  rgb(146, 33, 140) ;
+    
+   
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+
+.Re{
+
+    background:-webkit-linear-gradient(top, rgb(16, 70, 141) 40%, rgb(117, 21, 112) 70%);
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.Si{
+    text-align: center;
+    color:rgb(26, 12, 78) ;
+}
+
+.Ex{
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(26, 12, 78);
+    
+}
+
+.L {
+    display: flex;
+    flex-direction: column;
+    color: blueviolet;
+    font-size: 20px;
+    padding-left: 90px;
+    
+}
+
+.Rc {
+    margin-left: 550px;
+    font-size: 20px;
+    background:-webkit-linear-gradient(top, rgb(16, 70, 141) 40%, rgb(117, 21, 112) 70%);
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+    
+}
+
+.Y{
+    margin-left: 600px;
+    font-size: 20px;
+    background:-webkit-linear-gradient(top, rgb(16, 70, 141) 40%, rgb(117, 21, 112) 70%);
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+}
+
+.D{
+    text-align: center;
+    margin-left: 100px;
+}
+
+.F{
+    
+    color: rgb(20, 7, 90);
+    font-weight:bold;
+    text-shadow: 8px 8px 12px rgb(43, 124, 230);
+    text-align: center;
+    padding-right: 1000px;
+    
+}
+
+.Im{
+
+    text-align: center;
+    color: rgb(71, 71, 221);
+    font-size: 20px;
+
+}
+
+.Par{
+    color: blue;
+    font-weight: bold;
+    font-size: 30px;
+
+}
