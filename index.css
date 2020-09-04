@@ -45,8 +45,6 @@ body {
 
 .Site{
     color:  rgb(146, 33, 140) ;
-    
-   
     font-weight: bold;
     font-size: 18px;
     
@@ -131,5 +129,7 @@ body {
     color: blue;
     font-weight: bold;
     font-size: 30px;
+    text-shadow: 8px 8px 12px rgb(189, 28, 140);
 
 }
+   
