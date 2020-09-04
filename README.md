@@ -4,4 +4,6 @@
 
 ![GitHub Logo](Paw.png)
 
- Neko-Rescues,vient en aide aux chats abandonnés et errants,pour leurs offrir **une autre vie**
+ Neko-Rescues,vient en aide aux chats abandonnés et errants,pour leurs offrir **une autre vie.**
+ 
+ *Tout nos chats méritent l'amour d'une famille*
